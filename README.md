@@ -2,7 +2,7 @@
 
 Lightweight full-stack E-Commerce sample app for an internship assessment.
 
-Author: Your Name
+Author: Asifa Bandulal Beedi
 Department: AIML
 
 ## Project structure
@@ -59,8 +59,4 @@ The frontend expects the backend at `http://localhost:5000`.
 - Seed DB: `npm run seed` (server)
 - Start frontend dev: `npm run start` (client)
 
-## Notes
-- Do not commit `.env` — it is in `.gitignore`.
-- If using Atlas, make sure your IP is whitelisted in Network Access.
 
----
